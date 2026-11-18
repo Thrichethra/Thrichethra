@@ -10,10 +10,8 @@
 <div align="center">
 
 ### 🔗 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/LIVE%20PROJECT-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://estate-property-gray.vercel.app)
 [![Email](https://img.shields.io/badge/EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethra19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/chethra-sivarajah/))
 
 </div>
 
