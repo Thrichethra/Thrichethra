@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🔗 Connect with me
@@ -21,7 +19,7 @@
 
 ### About me
 
-Hi, I'm **Thrichethra Sivarajah** — a Software Engineering undergraduate focused on building clean, responsive full-stack web applications and applied AI/NLP systems.
+Hi, I'm **Thrichethra Sivarajah** a Computer Science undergraduate focused on building clean, responsive full-stack web applications and applied AI/NLP systems.
 
 **Full-Stack & AI/NLP Developer**  
 **React / JavaScript / Python**  
