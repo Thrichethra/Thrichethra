@@ -37,4 +37,4 @@ Hi, I'm **Thrichethra Sivarajah** — a Computer Science undergraduate focused o
   <img src="https://streak-stats.demolab.com?user=Thrichethra&theme=dark&background=0d1117&border=30363d&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thrichethra&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thrichethra&bg_color=0d1118&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
